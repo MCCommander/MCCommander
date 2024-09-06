@@ -4,6 +4,5 @@
 - 📫 Everyone could reach me at 1105391776@qq.com.
 
 <!---
-MCCommander/MCCommander is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Hey, could you leave a STAR for my later programs if you are so generous?
 --->
